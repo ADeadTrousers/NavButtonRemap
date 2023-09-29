@@ -1,4 +1,7 @@
 # NavButtonRemap for AOSP (Fork)
+Superseded by [HardwareKeyMapper](https://github.com/ADeadTrousers/HardwareKeyMapper)
+This repo is now read-only.
+
 Based on [NavButtonRemap by shuhaowu](https://github.com/shuhaowu/NavButtonRemap)
 
 Remaps hardware back/recent apps button depending on the screen orientation.
